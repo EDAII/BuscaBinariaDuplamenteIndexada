@@ -4,4 +4,4 @@ Busca e deleção binária com dois indexes, e inserção sequencial com 2 index
 |Matricula|Aluno|
 |:---:|:---:|
 |160028361|Gabriel Albino|
-||Gabriel Rodrigues
+|140168451|Gabriel Rodrigues|
